@@ -1,0 +1,6 @@
+C:\Users\SravaniAnvesh\source\repos\MyntraCart\MyntraCart\bin\Debug\MyntraCart.exe.config
+C:\Users\SravaniAnvesh\source\repos\MyntraCart\MyntraCart\bin\Debug\MyntraCart.exe
+C:\Users\SravaniAnvesh\source\repos\MyntraCart\MyntraCart\bin\Debug\MyntraCart.pdb
+C:\Users\SravaniAnvesh\source\repos\MyntraCart\MyntraCart\obj\Debug\MyntraCart.csprojAssemblyReference.cache
+C:\Users\SravaniAnvesh\source\repos\MyntraCart\MyntraCart\obj\Debug\MyntraCart.exe
+C:\Users\SravaniAnvesh\source\repos\MyntraCart\MyntraCart\obj\Debug\MyntraCart.pdb
